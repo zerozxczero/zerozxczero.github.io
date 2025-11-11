@@ -1,16 +1,41 @@
 [
   {
-  "id": 12,
-  "title": "VRChat 測試日",
-  "date": "2025-11-11",
-  "day": "Tuesday",
-  "mood": "😄",
-  "tags": ["VRC", "程式", "學習"],
-  "weather": "Cloudy",
-  "text": "今天在測試 Disbridge Proxy，終於能讓世界讀取 JSON！",
-  "tags": ["VRC", "學習"],
-  "attachments": "img001.jpg"
-  "created_at": "2025-11-11T09:30:00",
-  "updated_at": "2025-11-11T10:10:00"
+    "id": 1,
+    "title": "VRChat 測試日",
+    "date": "2025-11-11",
+    "day": "Tuesday",
+    "mood": "😄 開心",
+    "tags": ["VRC", "學習"],
+    "weather": "☁️ 多雲",
+    "text": "今天在測試 Disbridge Proxy，終於能讓世界讀取 JSON！",
+    "attachments": ["img001.jpg"],
+    "created_at": "2025-11-11 09:30",
+    "updated_at": "2025-11-11 10:10"
+  },
+  {
+    "id": 2,
+    "title": "KTV 系統測試",
+    "date": "2025-11-12",
+    "day": "Wednesday",
+    "mood": "😃 興奮",
+    "tags": ["VRC", "KTV", "實驗"],
+    "weather": "☀️ 晴天",
+    "text": "把歌單接到 Disbridge 測試，發現有幾首字幕時間需要微調，下次修正。",
+    "attachments": ["songlist_screenshot.png"],
+    "created_at": "2025-11-12 20:15",
+    "updated_at": "2025-11-12 20:45"
+  },
+  {
+    "id": 3,
+    "title": "Avatar 道具設計",
+    "date": "2025-11-13",
+    "day": "Thursday",
+    "mood": "🤔 專注",
+    "tags": ["Avatar", "設計"],
+    "weather": "🌧️ 雨天",
+    "text": "試做了一個可切換的魔法杖 FX Layer，Expression Menu 可以成功切換開關，但 constraint 還要微調位置。",
+    "attachments": [],
+    "created_at": "2025-11-13 14:05",
+    "updated_at": "2025-11-13 15:30"
   }
 ]
