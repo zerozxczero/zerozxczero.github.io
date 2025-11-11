@@ -8,6 +8,8 @@
   "tags": ["VRC", "程式", "學習"],
   "weather": "Cloudy",
   "text": "今天在測試 Disbridge Proxy，終於能讓世界讀取 JSON！",
+  "tags": ["VRC", "學習"],
+  "attachments": "img001.jpg"
   "created_at": "2025-11-11T09:30:00",
   "updated_at": "2025-11-11T10:10:00"
   }
